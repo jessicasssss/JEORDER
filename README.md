@@ -1,4 +1,4 @@
-#JEORDER 🛒
+# JEORDER 🛒
 JEORDER is a self-improvement project built as a simple E-Commerce website. The goal of this projeect is to practice and improve my skills in Node.js, MySQL, JavaScript, and HTML by developing a functional web application.
 
 ## Features ✨ 
